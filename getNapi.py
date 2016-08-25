@@ -70,7 +70,6 @@ class NapiProject:
 
 
 class SubConv:
-
 	def fromMdvd(self, lines, fps):
 		"""
 		Read micro-dvd subtitles.
