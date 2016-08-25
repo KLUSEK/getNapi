@@ -2,6 +2,7 @@
 
 ## What is it
 It's simple python script to search and download subtitles in NapiProjekt.pl repository.
+
 Improved version of napi2srt script (https://github.com/sternik/napi2srt).
 
 ### Main features
